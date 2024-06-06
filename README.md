@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 👨‍💻 All of my projects are available at [https://sbetav.me/](https://sbetav.me/)
+- 👨‍💻 All of my projects are available at [https://sbetav.com/](https://sbetav.com/)
 
 - 📫 How to reach me **santibeta82@gmail.com**
 
