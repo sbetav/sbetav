@@ -1,11 +1,11 @@
 <svg width="100%" height="1" xmlns="http://www.w3.org/2000/svg">
   <style>
     .divider-line {
-      stroke: #3d444db3;
+      stroke: #2F353D;
     }
     @media (prefers-color-scheme: light) {
       .divider-line {
-        stroke: #d1d9e0b3;
+        stroke: #DFE4E9;
       }
     }
   </style>
