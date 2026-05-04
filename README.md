@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Santiago Betancur 👋
+### Hi, I'm Santiago Betancur 👋
 
 I build thoughtful, responsive, and detail-oriented digital experiences for the web and mobile 🚀
 
@@ -8,7 +8,7 @@ I build thoughtful, responsive, and detail-oriented digital experiences for the 
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%">
 
 ### About me 👨‍💻
 
@@ -53,7 +53,7 @@ I'm a Software Engineer currently working as a Frontend Developer, focused on cr
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%">
 
 <div align="center">
 
