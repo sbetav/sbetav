@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I'm Santiago Betancur 👋
+# Hi, I'm Santiago Betancur 👋
 
 I build thoughtful, responsive, and detail-oriented digital experiences for the web and mobile 🚀
 
