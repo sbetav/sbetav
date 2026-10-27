@@ -12,7 +12,7 @@ I build thoughtful, responsive, and detail-oriented digital experiences for the 
 
 ### About me 👨‍💻
 
-I'm a Software Engineer currently working as a Frontend Developer, focused on creating clean interfaces, reusable components, and polished user experiences. I enjoy turning ideas and design guidelines into cohesive products, always paying attention to the small details that make an interface feel just right.
+I'm a Software Engineer focused on creating clean interfaces, reusable components, and polished user experiences. I enjoy turning ideas and design guidelines into cohesive products, always paying attention to the small details that make an interface feel just right.
 
 ### What I do 💻
 
